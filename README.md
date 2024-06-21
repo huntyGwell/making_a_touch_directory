@@ -6,9 +6,9 @@ The hardware/software interface of a touch directory
 ## Hardware
 I am using a mini-PC and a touch enabled TV
 
-## Ubuntu
+### Ubuntu
 
-## Windows 10
+### Windows 10
 Windows 10 worked great!
 I was able to make this work smoothly with a couple simple steps.
 
@@ -17,5 +17,7 @@ I was able to make this work smoothly with a couple simple steps.
 - a schortcut to the desired website
 -    I used Firefox because of the ease I had at adding the --kiosk and --fullscreen arguments into the desktop shortcut and the taskscheduler 
 
-## Windows 11
-This is where the weels fell off (again)
+### Windows 11
+This is where the weels fell off (again).
+Because of the secutiry features in windows 11 it made an automatic login difficult.
+Because of the domain protocols of where I am working 
