@@ -1,7 +1,7 @@
 # Making a Touch Directory
 The hardware/software interface of a touch directory
-\n *The direct purpose of this is to record my trial and error to help others (and myself) in the future*
-\n *Esp the helpdesk*
+*The direct purpose of this is to record my trial and error to help others (and myself) in the future*
+*Esp the helpdesk*
 
 ## Hardware
 I am using a mini-PC and a touch enabled TV
