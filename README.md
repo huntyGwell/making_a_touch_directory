@@ -18,7 +18,7 @@ I am ensuring that I have `wget`, `firefox`, and I will again wirte a couple sim
 -   restart import os
 -   directory import webbrowser
 -     `--fullscreen`, `--kiosk` ... I am not sure this will work but ill try on monday
-- then i will use `chron` to schedual the python scripts to run 
+- then i will use `crontab` to schedual the python scripts to run 
 
 ### Windows 10
 Windows 10 worked great!
