@@ -11,14 +11,10 @@ I am using a mini-PC and a touch enabled TV
 I have tried this on a couple different operating systems 
 
 ### Ubuntu
-I am ensuring that I have `wget`, `firefox`, and I will again wirte a couple simple scripts
-- I am now scpapping the wget idea and now
-- now i am writing 2 different python files
--   one to restart the computer `restart.py` one lauch the webpage `directory.py`
--   restart import os
--   directory import webbrowser
--     `--fullscreen`, `--kiosk` ... I am not sure this will work but ill try on monday
-- then i will use `crontab` to schedual the python scripts to run 
+I set up the `kiosk` account so that it does not need sign on to enter
+- created py scripts
+- cron
+- (cron help)[here.co]
 
 ### Windows 10
 Windows 10 worked great!
